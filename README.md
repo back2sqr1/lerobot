@@ -14,4 +14,4 @@ Over the course of a weekend, I joined a TAMU-based hackathon to assemble, wire,
 * Hardware schematics (still got a lot to learn)
 * Cuda programming - optimizing the CUDA could've lead to better result and speed
 
-<iframe src="https://streamable.com/e/czplzj" width="100%" height="100%" frameborder="0" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe>
+![alt text](https://img.youtube.com/vi/mM0v9r9ZzHw/0.jpg)](https://www.youtube.com/watch?v=mM0v9r9ZzHw)
