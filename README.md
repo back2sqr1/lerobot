@@ -14,4 +14,4 @@ Over the course of a weekend, I joined a TAMU-based hackathon to assemble, wire,
 * Hardware schematics (still got a lot to learn)
 * Cuda programming - optimizing the CUDA could've lead to better result and speed
 
-![alt text](https://img.youtube.com/vi/mM0v9r9ZzHw/0.jpg)](https://www.youtube.com/watch?v=mM0v9r9ZzHw)
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/mM0v9r9ZzHw" title="Lerobot Testing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
